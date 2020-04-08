@@ -1,0 +1,4 @@
+Right click on the ad/s that are getting in the way. Click on inspect element. Then right click on <div class="main_aside">.
+Then click on Edit as HTML.
+Delete all of that then the ads will be gone!
+Please note that once you reload or go to another game, you will have to do this again.
